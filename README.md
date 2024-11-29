@@ -1,4 +1,4 @@
-# OwnershipTransfer
+# DaoWakanda OwnershipTransfer Challenge
 
 This is the workspace root.
 
